@@ -1,4 +1,4 @@
-endpoint - (POST request)  https://sendmail-template.herokuapp.com/mail/
+endpoint - (POST request)  https://sendmail-template.herokuapp.com/mail/ \n
 JSON - 
 {
 "username":"u1",
